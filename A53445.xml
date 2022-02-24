@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of two letters the first sent from the Earle of Ormond to the Honourable Colonell Michael Jones, commander in chiefe of the Parliament's forces in Leinster and governor of the city of Dublin : vvith Colonell Jones his answere to the Earle of Ormond's said letters.</title>
+            <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53445</idno>
+            <idno type="STC">Wing O461</idno>
+            <idno type="STC">ESTC R181053</idno>
+            <idno type="EEBO-CITATION">12633432</idno>
+            <idno type="OCLC">ocm 12633432</idno>
+            <idno type="VID">64831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1533:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of two letters the first sent from the Earle of Ormond to the Honourable Colonell Michael Jones, commander in chiefe of the Parliament's forces in Leinster and governor of the city of Dublin : vvith Colonell Jones his answere to the Earle of Ormond's said letters.</title>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Jones, Michael, d. 1649.</author>
+               </titleStmt>
+               <extent>[2], 16 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Dublin printed by William Bladen, 1649, and now reprinted,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of republication suggested by NUC pre-1956 imprints.</note>
+                  <note>Contains two letters from Ormonde: "Carricke the 9. of March 1648" and "Thurles this 27th of March 1649", with two replies by Jones: "Dublin March 14, 1648 [1649] and "Dublin, March 31, 1649."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64831:1" rendition="simple:additions"/>
+            <p>A TRVE COPY OF two Letters, the firſt ſent from the Earle of <hi>Ormond</hi> to the Honourable Colo<g ref="char:EOLhyphen"/>nell <hi>Michael Jones,</hi> Commander in chiefe of the Parliaments for<g ref="char:EOLhyphen"/>ces in <hi>Leinſter:</hi> AND Governor of the City of <hi>Dublin.</hi>
+            </p>
+            <p>VVith Colonell <hi>Jones</hi> his Anſwere, to the Earle of <hi>Ormond's</hi> ſaid LETTERS.</p>
+            <p>DUBLIN, Printed by <hi>William Bladen,</hi> 1649. and now Re-printed.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64831:2"/>
+            <pb n="1" facs="tcp:64831:2"/>
+            <div type="letter">
+               <head>The Lord of <hi>Ormonds</hi> Letter, to Collonell <hi>Jones.</hi>
+               </head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have not thus long forborne to invite you, with thoſe under your Command, to a ſubmiſſion to his <hi>Majeſties</hi> authority in me, and a Conjunction with mee, in the wayes af his ſervice, out of any the leaſt averſion I had to you or any of them, or out of any diſeſteeme I had to your Power to advance or impede the ſame, but out of a fear that whilſt thoſe that have of late uſurp'd power over the Subjects of <hi>England,</hi> held forth the leaſt colourable ſhadow of moderatio<g ref="char:cmbAbbrStroke">̄</g> in their intentions toward the ſettlement of <hi>Church</hi> or <hi>State,</hi> &amp; that in ſome tole<g ref="char:EOLhyphen"/>rable way with relation to <hi>Religion,</hi> the <hi>intreſt of the King and Crowne,</hi> the <hi>Freedom of Parliaments,</hi> and the <hi>Libertie of the Subject,</hi> any addreſſes from mee propoſing the withdrawing of that Party from thoſe thus profeſſing, ana from whom they have received ſome, and expect farther ſupport, would have beene but coldly received, &amp; any determination thereupon deferred in hope &amp; expection of the fore mentioned ſettlement, or that if you your ſelfe (who certainly have not wanted a fore-ſight of the ſad confuſion now covering the face of <hi>England</hi>) would have declared <hi>with mee,</hi> the Lord <hi>Inchequin,</hi> and the <hi>Proteſtant Army in Munſter,</hi> in prevention thereof. Yet my feare was, it would have beene as diffi<g ref="char:EOLhyphen"/>cult for you to have carried with you the maine body of the <hi>Army</hi> under your Command (not ſo clear ſighted as your ſelfe) as it would have beene dangerous for you and thoſe with you, well inclined, to have attempted it without them. But now that the Maſque of hypocriſie, by which the <hi>Independent Army</hi> hath en<g ref="char:EOLhyphen"/>ſnared and enſlaved all Eſtates and degrees of men, is laid aſide: Now that bare<g ref="char:EOLhyphen"/>faced they evidently appeare to bee the ſubvertours of true Religion, and the pro<g ref="char:EOLhyphen"/>tectors and invitors not only of all falſe ones, but of irreligion and athiſme, now that they have barbarouſly and inhumainly layed violent ſacrilegious hands upon, and murthered Gods Annointed, and our King; not as heretofore ſome Patricides have done, to make roome for ſome uſurper, but in a way plainly manifeſting their intentions, to change the <hi>Monarchy of England</hi> unto <hi>Anarchy,</hi> unleſſe their aime bee firſt to Conſtitute an <hi>elective Kingdom,</hi> and <hi>Cromwell</hi> or ſome ſuch <hi>John of Leyden</hi> being elected, then by the ſame force by which they have thus farre compaſſed their end, to eſtabliſh a perfect <hi>Turkiſh tyranie:</hi> now that of <hi>three Eſtates,</hi> of <hi>King, Lord,</hi> and <hi>Commons;</hi> whereof in all ages <hi>Parliaments</hi> have conſiſted: there romaines only a ſmall number; and they <hi>dreggs</hi> and <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the houſe of Commons</hi> picked and awed by the <hi>Army,</hi> a wicked remnant left for no other end, then yet further (if it bee poſſible) to delude the People<g ref="char:punc">▪</g> with the name of <hi>Parliament,</hi> the King being murthered, and the <hi>Lords</hi> and the reſt of the
+<pb n="2" facs="tcp:64831:3"/>
+                  <hi>Commons</hi> being by unheard of violence forced at ſeverall times from the houſe and ſome impriſoned: and now that there remaines no other <hi>Liberty in the Sub<g ref="char:EOLhyphen"/>ject,</hi> but to profeſſe blaſphemous opinions, to revile and tread under foote <hi>Maje<g ref="char:EOLhyphen"/>ſtracy,</hi> to murther <hi>Majeſtrates,</hi> and oppreſſe and undoe all that are not like mind<g ref="char:EOLhyphen"/>ed with them. Now I ſay I cannot doubt, but that you, and all that are with you, or under your command, will take this opportunity to declare and act, againſt ſo monſtrous and unparpalel'd a <hi>Rebellion,</hi> and that you and they, will cheerefully acknowledge, and faithfully ſerve and obey <hi>Our gracious King, Charles the ſecond,</hi> undoubted Heire of his <hi>Fathers</hi> Crowne and vertues: under whoſe right and conduct wee may by Gods aſſiſtance <hi>reſtore Proteſtant Religion to purity, and therein ſettle it, Parliaments to a Freedome, good Lawes to their force, and our fellow Subjects to their juſt Liberty:</hi> wherein how bleſſed and glorious a thing it will bee, to bee ſo conſidera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly <hi>Inſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umentall</hi> as you may now make your ſelfe; I leave to you now to conſider, and though I conceive there are not any Motives relating to Particular intereſts to bee mentioned after theſe ſo weighty Conſiderations, which are ſuch as the <hi>World</hi> hath not at any time beene furniſhed with, yet I hold it my part to aſſure you, that as there is nothing you can reaſona<g ref="char:EOLhyphen"/>bly propoſe for the ſafety, ſatisfaction, or advantage for your ſelfe, or of any that ſhall adhere to you, in what I deſire, that I ſhall not to the uttermoſt of my power provide for, ſo there is nothing I ſhould or would more induſtriouſly avoid, then thoſe neceſſities ariſing from my duty to God and Man, that may by your rejecting this offer, force mee to bee a ſad inſtrument of ſhedding of <hi>Engliſh blood,</hi> which in ſuch a caſe muſt on both ſides happen. If this overture finde place with you (as I earneſtly wiſh it may) let mee know with what poſſible ſpeede you can, and (if you pleaſe) by the bearer in what way you deſire it ſhould bee drawne on to a Concluſi<g ref="char:EOLhyphen"/>on, for in that, as well as in the ſubſtance you ſhall find all ready compliance from mee that deſires to bee,</p>
+               <closer>
+                  <dateline>Carricke <date>the 9. of <hi>March</hi> 1648.</date>
+                  </dateline>
+                  <signed>Your affectionate friend to ſerve you, ORMONDE.</signed>
+               </closer>
+               <trailer>For Colonell <hi>Michael Jones,</hi> Gover<g ref="char:EOLhyphen"/>nour of <hi>Dublin.</hi>
+               </trailer>
+            </div>
+            <div type="letter">
+               <head>Colonell <hi>Jones,</hi> his Anſwer to the Lord of <hi>Ormonds</hi> ſaid Letter.</head>
+               <opener>
+                  <salute>My Lord.</salute>
+               </opener>
+               <p>YOur Lodrſhips of the 9 I received the 12 inſtant and therein have I <hi>your Lordſhips Invitation</hi> to a <hi>Conjunction with your ſelfe</hi> (I ſup<g ref="char:EOLhyphen"/>poſe) as <hi>Lord Lievtenant of Ireland,</hi> and <hi>with others,</hi> now united with the <hi>Iriſh,</hi> and with the <hi>Iriſh themſelves alſo.</hi> As I underſtand not how <hi>your Lordſhip</hi> ſhould bee inveſted with that power pretended, So am
+<pb n="3" facs="tcp:64831:3"/>
+I very well aſured, that it is not in the power of any, without the <hi>Parliament of England</hi> to give and aſſure pardon to thoſe <hi>bloudy Rebells,</hi> as by the <hi>Act,</hi> to that end paſſed, may appeare more fully. I am alſo well aſſured, that the <hi>Parliament of England,</hi> would never aſſent to ſuch <hi>a Peace</hi> (ſuch as is that <hi>your Lordſhips</hi> with the <hi>Rebells</hi> wherin is little or no Proviſion made either for the <hi>Protestants</hi> or the <hi>Proteſtant Religion,</hi> nor can I underſtand how the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Religion</hi> ſhould be <hi>ſettled and Reſtored to it's purity</hi> by an <hi>Army of Pa<g ref="char:EOLhyphen"/>piſts,</hi> or the <hi>Protestants intreſts</hi> maintained by thoſe very <hi>Enemies</hi> by whom <hi>they</hi> have been ſpoiled, and <hi>theirs</hi> ſlaughtered, and very evident it is, that both the <hi>Protestants</hi> and <hi>Proteſtant Religion</hi> are in that your <hi>Lordſhips treaty,</hi> left <hi>as</hi> in the Power of the <hi>Rebells</hi> to be by them born downe and rooted out at Pleaſure.</p>
+               <p>As for that conſideration by <hi>your Lordſhip</hi> offered <hi>of the preſent and late Pro<g ref="char:EOLhyphen"/>ceedings in England:</hi> I ſee not how it may bee a ſufficient motive to mee, (or any other in like <hi>truſt,</hi> for the <hi>Parliament of England, in</hi> the <hi>ſervice</hi> of this <hi>Kingdom) to joyn with thoſe Rebells</hi> upon any pretences in that your <hi>Lordſhips Letter</hi> mentioned.</p>
+               <p>For therein were there a manifeſt <hi>betraying of that truſt,</hi> repoſed in mee, In diſerting <hi>the ſervice and worke committed to mee,</hi> in <hi>joyning with thoſe I ſhould oppoſe,</hi> and in <hi>oppoſing whom I am obliged to ſerve.</hi>
+               </p>
+               <p>Neither conceive I it any part of my work and care to take notice of <hi>any whatſoever proceedings of State forraigne to my charge and truſt here,</hi> eſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cially they being found hereunto apparently deſtructive.</p>
+               <p>Moſt certaine it is (and former ages have approoved it) that the intermedling of <hi>Governours and Parties in this Kingdome</hi> with <hi>ſideings</hi> and <hi>Parties in Eng<g ref="char:EOLhyphen"/>land,</hi> hath been the very betraying of <hi>this Kingdome</hi> to the <hi>Iriſh,</hi> whiles the <hi>Brittiſh forces here</hi> had been thereupon called off and <hi>the place</hi> therein layed open, and (as it were) given up to the <hi>common Enemie.</hi>
+               </p>
+               <p>It is what <hi>your Lordſhip</hi> might have obſerved in your former <hi>Treaty</hi> with the <hi>Rebells,</hi> that upon <hi>your Lordſhips</hi> thereupon withdrawing and ſending hence <hi>into England,</hi> the moſt conſiderable part of the <hi>Engliſh Army,</hi> then commanded by you, thereby was the remaineing <hi>Brittiſh party,</hi> not long after, overpowered, and <hi>your quarters</hi> by the <hi>Iriſh over runne</hi> to the gates of <hi>Dublin, your ſelfe</hi> alſo reduced to that <hi>low condition</hi> as to be <hi>beſeiged</hi> in this very <hi>City</hi> (the <hi>Metropolis</hi> and <hi>Principall Citadell</hi> of the <hi>Kingdome</hi>) and by <hi>thoſe very Rebells</hi> who till then, never could ſtand before you. And what the end hath beene <hi>of that party alſo,</hi> ſo ſent by <hi>your Lordſhip</hi> into <hi>England</hi> (although the flower and ſtrength of the <hi>Engliſh Army here,</hi> both for <hi>Officers</hi> and <hi>Souldiers</hi>) hath been very obſervable.</p>
+               <p>And how much the <hi>Dangers</hi> are at preſent (more then in former <hi>ages</hi>) of <hi>hazarding the Engliſh intreſt in this Kingdom</hi> by <hi>ſending any parties hence into any other Kingdome, upon any pretences whatſoever</hi> is very apparent, as in the
+<pb n="4" facs="tcp:64831:4"/>
+                  <hi>generality of their Rebellion,</hi> now more then formerly, ſo conſidering <hi>your Lordſhips</hi> preſent <hi>Concluſions</hi> with, and <hi>Confeſſions</hi> to the <hi>Rebells,</hi> wherein, they are <hi>allowed the continued poſſeſſion of all the Cities Forts, and places of ſtrength, whereof they ſtood poſſeſſed at the time of their Treaty with your Lordſhip,</hi> and <hi>that they are to have a ſtanding Force of fiveteen thouſand Foote, and two thou<g ref="char:EOLhyphen"/>ſand five hundred Horſe</hi> (If I well remember it) <hi>all of their owne party, Officers, and Souldiers,</hi> and <hi>they (with the whole Kingdome) to bee regulated by a Major party of Iriſh truſtees choſen by the Rebells themſelves,</hi> as perſons for their intreſts and ends to be by them confided in, without whom nothing is to be acted. And herein, I cannot but minde <hi>your Lordſhip,</hi> of what hath been ſome<g ref="char:EOLhyphen"/>times <hi>by your ſelfe</hi> delivered, as your ſence in this Particular, <hi>that</hi> the <hi>Engliſh intreſt in Ireland muſt be preſerved by the Engliſh and not by Iriſh;</hi> and up<g ref="char:EOLhyphen"/>on that ground (if I be not deceived) did <hi>your Lordſhip</hi> then <hi>Capitulate,</hi> with the <hi>Parliament of England,</hi> from which <hi>cleare Principle,</hi> I am ſorry to ſee <hi>your Lordſhip</hi> now receding.</p>
+               <p>As <hi>to that by your Lordſhip menaced to us here of bloud and force, if diſcenting from thoſe your Lordſhips wayes and deſignes.</hi>
+               </p>
+               <p>For <hi>my Particular</hi> I ſhall (<hi>my Lord</hi>) much rather chooſe to ſuffer in ſo doing (for therein ſhall I doe what is becomming and anſwerable to my <hi>Truſt</hi>) t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to purchaſe to my ſelfe, in the contrary, the ignominious brand of <hi>Perfidy,</hi> by any <hi>Alurements</hi> of whatſoever <hi>advantages</hi> offered mee.</p>
+               <p>But very confident I am, that the ſame <hi>divine power</hi> which hath followed me in this <hi>worke,</hi> will ſtill follow mee, and in that <hi>Truſt</hi> doubt I nothing of thus giving <hi>your Lordſhip, plainly,</hi> this my <hi>Reſolution</hi> in that Particular. So I remaine</p>
+               <closer>
+                  <salute>My Lord,</salute>
+                  <dateline>Dublin <date>March 14. 1648.</date>
+                  </dateline>
+                  <signed>Your Lordſhips humble Servant Signed, <hi>Mic. Jones.</hi>
+                  </signed>
+               </closer>
+               <trailer>For the Lord of <hi>Ormond</hi> theſe.</trailer>
+            </div>
+            <div type="letter">
+               <head>The Lord of <hi>Ormondes</hi> Letter to Collonell <hi>Michael Jones. March the</hi> 27. 1649.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Should not trouble you nor yet my ſelfe with a Reply to your Letter of the 14 of <hi>March</hi> anſwering mine of the ninth, but that I am unwilling to ſuffer you to remaine in the miſtakings you ſeeme to have taken up of my procee<g ref="char:EOLhyphen"/>dings, or that any other to whom your ſaid Letter may bee communicated
+<pb n="5" facs="tcp:64831:4"/>
+ſhould bee thereby miſled, and if in what I have to ſay you find your duty pointed at even in relation to the truſts repoſed in you, you will have the leſſe reaſon to beleeve it impertinent if you reflect vpon ſome parts of your Letter which minde mee of mine. And if you further conſider that I have at leaſt as much title to give ſuch adm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nitions in this Kingdome as you can justly pretend unto, for it was (as you ſay you ſuppoſe) as Lord Lievtenant of Ireland that I invited you to a Submiſſion to that his late and his now Majeſties authority placed in mee, and to a conjunction with others both Engliſh and Iriſh that have Submitted thereunto, and I heartily wiſh there were no other Arguments neceſſary to your ſatisfaction then ſuch as might prove this Authority to bee derived to mee by the ſame Power that in all ages ſince the Conqueſt, hath and only can diſpoſe of the Government of this Kingdome, ſo that whatſoever your underſtanding of the matter may bee, you muſt looke for impoſters, and bare pretended Authorities neerer home, whither what you next ſay and affirme, and are ſo very well aſſured of (namely that it is not in the power of any to give and aſſure pardon to thoſe bloody Rebells) bee an inference out of your former miſtake, or grounded on the Act you mention, or both, is not much materiall; for as I am ſufficiently able to juſtifie the Authority I had to treate and conclude the Peace, ſo if it were granted that by the ſaid Act his late Majeſtie had limited his power of Pardoning till after conviction to the conſent of his two houſes of Parliament then ſitting by vertue of his writts and ſummons, And this I beleeve (though I bee not well read in the Statutes) to be the vttermoſt extent of that Act in this Particular, will it therefore folow that by no meanes this power can ever revert to the proper fountain whence (even that act ſhowes) it was, and muſt bee derived, and if by none other meanes; yet will it not revert by the diſſolution of that Parliament; or if not by an ordinary diſſolution of it, yet by ſo horrible and execrable diſmembring as that mentioned in my former Letter; is not that Parliament torne aſunder &amp; the power reverted, or can it bee thought that the intent of that act (paſſed by the free vote of the Lords and Commons and compleated by the Royall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſent) was, that a deſpicable num<g ref="char:EOLhyphen"/>ber of the Commons, become ſlaves or Parazites to a Rebellious Army, ſhould aſ<g ref="char:EOLhyphen"/>ſume the name or power of Parliament, declare Regall power unneceſſary, nay prejudiciall to the Common-Wealth, aboliſh <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth it and the Houſe of Peeres for ever, and erect in the roome of this demoliſhed antient, and glorious Fabrick, a miſhappen Republique, wherein to ſettle themſelves Revenues and Bloody Gover<g ref="char:EOLhyphen"/>nours, and get the Power of pardoning and making vſe of his Subjects (evidently inveſted in and reverted to the king) againſt ſo great unheard of &amp; horrid innova<g ref="char:EOLhyphen"/>tions muſt not bee exerciſed without their leave, nor they puniſhed for the Higheſt Treaſons but by their owne conſents, and if theſe men are meant by you under the name of the Parliament of <hi>England,</hi> you may bee well aſſured as you ſay you are, they would never conſent to this or any other Peace thwarting their evill ends, one of the moſt monſtrous, whereof declaredly is never to have more Parliament to deliver Judgement in this or any other matter; for the title Bloody Rebells
+<pb n="6" facs="tcp:64831:5"/>
+which you appropriate to thoſe with whom this Peace is concluded. You may know that by an Article of the Peace all ſuch are excluded from pardon, and therefore I conceive it is that one father <hi>Reyly</hi> an active Inſtrument in crimes of that nature, is as I here treating for conditions for himſelfe and others, with ſome of a like dye, not that you or any with you are hereby any further intended then as you or they ſhall abet or adhere to thoſe in <hi>England</hi> that undeniably are ſo. And where you ſay there is in this Peace little or no proviſion made either for the Proteſtants, or Proteſtant Religion, you are to underſtand with whom the Treaty was, namely with thoſe of another Religion, from whom propoſitions for Proteſtants or Pro<g ref="char:EOLhyphen"/>teſtant Religion was not to bee expected, nor was it neceſſary to obtaine their con<g ref="char:EOLhyphen"/>ſents to any ſuch proviſion, the establiſhed Lawes providing for both, and no part o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe Lawes being by the Peace to bee repealed, they ſtand in force for their advantage and ſecurity; true it is that the ſeverity of certain Lawes againſt Roman Catholiques for the Exerciſe of their Religion is to bee porvided againſt by Act of Parliament, but without prejudice to Proteſtant Religion, or Prote<g ref="char:EOLhyphen"/>ſtants whoſe intereſts as fully ſaved unto them.</p>
+               <p>Your not underſtanding how Proteſtant Religion ſhould bee ſetled and reſtored <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o its purity by an Army of Papiſts makes it not impoſſible, nor I hope improbable but that that happy work may bee effected by the bleſſing of God under the conduct of his Majeſty that now is, whoſe Authority a Proteſtant Army hath acknow<g ref="char:EOLhyphen"/>ledged, and will faithfully obey; and to a conjuction with theſe (not excluding any that have good and loyall Affections) you were invited however you think fitt for this worke to make me intend only an Army of Papiſts, And where you ſay it is evident that both Proteſtants and Proſteſtants Religion are in that treaty left as in the Power of the Rebells to bee by them borne downe and rooted out at pleaſure, I muſt take leave to affirme that the contrary is indeed very evident, as will appeare when the particular powers left in the Iriſh afterwards mentioned by you as ar<g ref="char:EOLhyphen"/>guments for that aſſertion come to bee conſidered of, you are pleaſed ſtill to miſtake the invitation, which was not as you ſay to joyne with Rebells but to forſake the worſt of thoſe that ever deſerved that title even in relation to the Parliament of <hi>England,</hi> whether taken in the true definition of it when the King was acknoledged head of that body, or when the two Houſes without the King were ſo called, which how they have been ſerved by their Servants the Independent Army hath been already ſufficietnly ſpoken of, to manifeſt that to ſerve or adheare to thoſe that have acted ſuch miſcheifes by the impulſion or countenance of that Ar<g ref="char:EOLhyphen"/>my is the fowleſt breach of truſt imaginable, and I am very ſorry you ſo farre re<g ref="char:EOLhyphen"/>ſolve your ſelfe obleiged to ſerve them as to thinke it no part of your worke to endeavour to preſerve or reſtore thoſe by whom you were intruſted, and that it is not worth your notice or care what deſtruction falls upon them, but take it to be a matter Forraigne to your charge and truſt. I ſhall readily acknowledge that the div<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſions in England have in former ages been by the meanes you mention preju<g ref="char:EOLhyphen"/>diciall to the Engliſh intereſt in this kingdome, but you must alſo acknowledg that
+<pb n="9" facs="tcp:64831:5"/>
+the <g ref="char:V">Ʋ</g>ſurper or wrong Doer in England, was only guilty of that prejudice; unleſſe you will impoſe upon all that have Governed or ſhall Govern in this Kingdom, a neceſſity of turning Truſt-breakers and Traytors, when, and as often as it hath pleaſed or ſhall pleaſe God to give ſucceſſe to any Rebellion in England: Nor ſhould this in my judgement, be a very pleaſing profeſſion to thoſe you are (as you ſay) oblieged <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſerve, ſince it amounts to no more then that, whilſt they proſper, you will ſo think and no longer; which is all I ſhall ſay to your Obſervations, of the conſequences of my ſending part of his late Majeſties Army to ſerve him in Eng<g ref="char:EOLhyphen"/>land, according to his Command; which Army came over under his Commiſſion. Now to thoſe Conceſſions, which you ſay are ſo dangerous to the Proteſtant and Engliſh Intereſt in this Kingdom: I ſhall firſt anſwer, that admitting them to be, as you have miſtaken, and ſet them down, the danger is much more encreaſed by the diviſion of the Engliſh and Proteſtants; if this be granted, as in reaſon it ought to be; the Queſtion then will be who is in fault, that there is not a conjuncti<g ref="char:EOLhyphen"/>on, and in that ſence by what you have written, I conceive you will not believe me a competent Iudge, and that for the ſame reaſon, I am confident you are not, it muſt be left to God, who I am ſure is.</p>
+               <p>Your miſtakes in the Conceſſion<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are theſe: First, you ſay, they are allowed the continued poſſeſſion of all the Cities, Forts, and Places of Strength, whereof they ſtood poſſeſſed at the time of the Treaty; but you give no limit to the time they are to continue this Poſſeſsion, as the Article doth; namely, till ſettlement by Par<g ref="char:EOLhyphen"/>liament, nor do you mention that thoſe Places are to be commanded, ruled, and Governed in Chiefe, by his Majeſties Chiefe Governor or Governours for the time being, as by that Article they are.</p>
+               <p>Next you ſay, that they are to have a ſtanding Force of fifteen thouſand Foot, and two thouſand five hundred Horſe, all of their Party: in the number you are not mistaken, but you are when you ſay that they are all to be of their Party, if you intend by Rebels the late Confederates, for if they be Roman Cotholikes, that Article is fulfilled, and of them there are many that were not of t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Confede<g ref="char:EOLhyphen"/>rates, but much more mistaken you are, when you affirm that thoſe Forces and the whole Kingdom, are to be regulated by a major Party of Truſtees of the Iriſh, there being nothing in their power through the whole Articles, extending either to the regulating of an Army, or any piece of one, much leſſe of the whole King<g ref="char:EOLhyphen"/>dome: and even in thoſe powers derived to them by the Articles, which for the moſt part are in matters of Levies and Taxes upon their own freehold: there is a negative power left to the chiefe Governour for the time being, for the more equall execution thereof, in caſe any Proteſtant, or Proteſtants Eſtate happen to be there<g ref="char:EOLhyphen"/>in concerned.</p>
+               <p>I ſhall not deny (though I doe not remember it) but I may have ſaid, that the Engliſh Intereſt in Ireland, muſt be preſerved by the Engliſh, for I avow it is ſtill my opinon: But then certainly I underſtood, of no Engliſh Intereſt ſeparate, from, or Independant of the King and Crown of England; much leſſe ſuch an Engliſh In<g ref="char:EOLhyphen"/>tereſt as is now ſet up; and which you ſay, you are oblieged to ſerve, excluſive both to King, Crown and Parliament; nor did I underſtand my ſelfe, and many others leſſe Engliſh, or leſſe concerned in the Engliſh Intereſt, becauſe of our long
+<pb n="10" facs="tcp:64831:6"/>
+continuance in this Kingdom; nor yet was it excluſive to all of Iriſh diſcent, many of whom doe now, and have in all Ages well deſerved of the Crown of England.</p>
+               <p>I ſhall not deny neither, but that being preſſed principally by the Party, for whom the mentioned Father <hi>Reyley</hi> is ſaid to bee now Treating at Dublin, I made choiſe to capitulate with you, and others employed by the two Houſes of Parliament to that end, and into their hands to commit the keeping of the places, I could no longer hold, then to give them up: or ſuffer them to be taken by an Army in<g ref="char:EOLhyphen"/>ſtigated by a forraigner to the danger of the whole Kingdom, and the destruction of thoſe I had ſo long protected; and you may remember the expreſſions you were then pleaſed to make in detestation of any violence to the Kings perſon, or the just rights of his Crown, from which loyall expreſſion, I am ſorry to ſee you now recede.</p>
+               <p>If you pleaſe to look again upon that part of my Letter, which you interpret, a menace of blood and force, you will retract that part of yours that charges mee with it, or elſe muſt give me leave to think you were willing to take a ſlender oc<g ref="char:EOLhyphen"/>caſion, to manifeſt your reſolution to ſome other then to me, who am as ready to ſubmit to Gods good pleaſure, in the event of my undertakings, as you are poſitive, that he will follow you in your work. I remaine</p>
+               <closer>
+                  <signed>Your Servant ORMOND</signed>
+                  <dateline>Thurles <date>this 27th of March 1649</date>
+                  </dateline>
+               </closer>
+               <trailer>For Colonell <hi>Michael Iones,</hi> Theſe</trailer>
+            </div>
+            <div type="letter">
+               <head>Colonell <hi>Michael Jones</hi> his returne to the Lord of <hi>Ormonds</hi> Letter of the 27. of March, 1649.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>YOur Lordſhips of the 27. of <hi>March</hi> I received this 29th. this being in reply to mine of the 14. of <hi>March,</hi> anſwering your Lordſhips former of the ninth.</p>
+               <p>
+                  <hi>The rectifying of mistakes in me concerning your Lordſhips proceedings, and the ſatisfying of others, that they be not by that my Letter miſled,</hi> are by your Lordſhip declared the reaſons moving you to this Reply.</p>
+               <p>Notwithſtanding all which, I do (for my part) profeſſe my ſelfe there<g ref="char:EOLhyphen"/>withall nothing ſatisfied, nor my judgement thereby any way convinced, ſo, as I ſhould abate any thing in my former conceptions of your Lordſhips waies and deſignes, from apprehending them to be, to the Proteſtants here, to the Proteſtant Religion, and to the very Engliſh Intereſt in this Kingdome, per<g ref="char:EOLhyphen"/>nicious altogether, and apparantly deſtructive, nor can I think any other (not intereſſed in thoſe your Lordſhips wayes, or not carried on and byaſſed with particular reſpects) will, on view of this your Lordſhip now offered, paſſe any other judgement upon thoſe your proceedings. And herein am I now con<g ref="char:EOLhyphen"/>firmed more then formerly, being by that your Lordſhips Reply called on, and enforced to look into your Lordſhips <hi>late tranſactions with the Rebels</hi> fur<g ref="char:EOLhyphen"/>ther, and more then otherwiſe, I ſhould have done.</p>
+               <p>
+                  <pb n="11" facs="tcp:64831:6"/>As for the <hi>Protestant Religion,</hi> I cannot but very much wonder to finde your Lordſhip ſtill aſſerting, <hi>the poſſibility and probability of its being by you restored to its purity, and ſetled by that Army of Papists.</hi>
+               </p>
+               <p>To paſſe what may otherwiſe ſhew it, at leaſt, improbable: Let it bee here conſidered, that now we look on <hi>thoſe Armies of Papiſts</hi> with you, as on them who have ſtiled themſelves <hi>Confederates</hi> in reſpect of <hi>that Aſſociation,</hi> and of thoſe <hi>Oathes</hi> wherein they ſtand bound <hi>to the ſetting up of Romiſh Reli<g ref="char:EOLhyphen"/>gion, and that to the greateſt advantage.</hi>
+               </p>
+               <p>And how inconſiſtent that their <hi>ſolemn Profeſſion</hi> is with <hi>their reſtoring the Proteſtant Religion to its purity, and for ſetling it,</hi> I leave it to all not Popiſhly affected. This I am ſure of, That neither before your Lordſhips late Treaty with the Rebels, nor ſince, have their actions given us the leaſt hope of <hi>proba<g ref="char:EOLhyphen"/>bility</hi> (if in that power by your Lordſhip ſtill left in them, there be not a very <hi>impoſſibility</hi>) of that by your Lordſhip herein ſo confidently affirmed.</p>
+               <p>But you ſay, <hi>Yours is not an Army of Papiſts,</hi> pointing to thoſe of the <hi>Prote<g ref="char:EOLhyphen"/>ſtants in Munſter</hi> drawn, or rather forced into that Confederacy, with your ſelf, and the Rebels.</p>
+               <p>
+                  <hi>That remnant of Proteſtants</hi> (I ſpeak it plainly, betrayd into the hands of their mortall enemies, the Enemies of both their Religion and Nation;) that remnant (I ſay) is all your Lordſhip hath for countenancing that your aſſer<g ref="char:EOLhyphen"/>tion. And what can that handfull do, (although of good affections) for en<g ref="char:EOLhyphen"/>forcing the predominant, and ſo the contrary confederate party, to a <hi>restoring and ſetling Proteſtant Religion to its purity?</hi> If it be not impoſſible, ſure I am it is improbable. I ſaid, that for the Proteſtants there is little or no proviſion, in that your Lordſhips peace with the Rebels.</p>
+               <p>Herein your Lordſhip now tells me, <hi>That it was not neceſſary the Pro<g ref="char:EOLhyphen"/>teſtants ſhould be named in that Treaty, the eſtabliſhed Lawes of the Kingdome,</hi> (no part of which is to be in thoſe Articles repealed) <hi>ſaving to them their Intereſts.</hi>
+               </p>
+               <p>Thereunto ſhall I adde what of your Lordſhips owne words are thereunto preceding, which are theſe, <hi>You are to underſtand with whom the Treaty was, namely with thoſe of another Religion, from whom Propoſitions for Proteſtants or Proteſtant Religion was not to be expected;</hi> wherein is enough (I think) to ſhew a neceſſity of ſome expreſſe proviſions to be made for the Proteſtants and Proteſtant Religion, and that they ſhould not be ſo caſt upon <hi>tacite im<g ref="char:EOLhyphen"/>plications,</hi> having to deale with ſuch from whom nothing was to be expected for good, either to them, or their Religion, (as you ſo confeſſe.) Herein is al<g ref="char:EOLhyphen"/>ſo appearing the poſſibility and probability of reſtoring and ſetling the Pro<g ref="char:EOLhyphen"/>teſtant Religion by an Army of Papiſts.</p>
+               <p>As for the not repealed Lawes by your Lordſhip mentioned, whereunto the Proteſtants are in that caſe by your Lordſhip left and referred, I deſire herein to be ſatisfied concerning the Proteſtants remedy for ſatisfaction from thoſe by whom they have been moſt unjuſtly diſpoiled and deſtroyed in their whole fortunes; are they herein referred to the eſtabliſhed lawes not repealed in that your Lordſhips peace? But thoſe Lawes (although not repealed) are
+<pb n="12" facs="tcp:64831:7"/>
+by your Lordſhip as to this particular, all daſht out at once, in that your 18. Article, wherein is found an Act of Oblivion, paſsing over all whatſoever was done by the Rebels in that kind, and much more, from 23. of <hi>October,</hi> 1641. And for the Proteſtants Eſtates of land and free-hold, I mean in the Plantation of the Kingdome, ſince 1. <hi>Iacobi,</hi> are not all of them ſhaken in your Lordſhips 7. 15, and 16. Articles? Thus indeed are the Proteſtants in your Lordſhips Treaty provided for, and (your Lordſhip thinks) ſufficiently.</p>
+               <p>You ſay (my Lord) 'I am miſtaken in ſaying that the continued poſſeſion of all the Cities, Forts, and places of ſtrength, whereof the Rebels ſtood poſ<g ref="char:EOLhyphen"/>ſeſſed at the time of the Treaty, is allowed them in that Treaty.</p>
+               <p>Vnder favour (my Lord) I am not therein miſtaken, the 29. Article ſhew<g ref="char:EOLhyphen"/>eth it; it is true indeed, that thereunto is that limitation given by Your Lordſhip now mentioned, this to continue till ſettlement by Parliament: But is not a continuance till ſettlement by Parliament a continuance? And of how long a continuance that may be, I beleeve Your Lordſhip cannot at preſent eaſily reſolve, nor (by any thing yet appearing) is Your Lordſhip cert<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine when that expected Parliament and ſettlementſhall be (if ever it be) whether the Rebels ſo poſſeſſed of ſo conſiderable a part of the Kingdome, and of the ſtanding power of a confiding Army of fifteen thouſand Foot, and two thouſand five hundred Horſe, will be willing to to caſt off what may aſſure unto them, that which is to be ſo ſetled to them by that Parliament.</p>
+               <p>That very Parliament alſo (by them and in the Articles termed a free Parli<g ref="char:EOLhyphen"/>ament) is none other then what ſhall be made up wholly (or more then the moſt part) of their own (for more then five parts of ſix of the Corporations are wholly theirs;) a fit Parliament for ſetling the Proteſtant Religion and the Proteſtants Intereſts.</p>
+               <p>I have not herein mentioned (your Lordſhip addeth) that thoſe Forts, &amp;c. ars to be commanded, ruled, and governed in Chiefe, by his Majeſties chie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Governour for the time being, as by that Article they are.</p>
+               <p>That in the Article concerning this, is in ſubſtance, That the ſaid Cities, Garriſons, Townes, Forts, and Caſtles, now in the Quarters of the <hi>Roman Catholikes</hi> are to be commanded by ſuch as ſhall be approved by the Lord <hi>Dillon Coſtillagh</hi> &amp;c. (naming the Rebels twelve Iriſh Truſtees) or by any ſeven of them, the ſaid perſons ſo by them approved, being to be therein au<g ref="char:EOLhyphen"/>thorized by the Lord Lieutenant, wherein appeareth that in thoſe Truſtees is the approving power, without whom your Lordſhip can act nothing as to the perſons intruſted with thoſe Commands. And it is preſumed that the perſons ſo approved by thoſe Truſtees, are likely to be ſuch as they confide in ſo, as no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be commanded, ruled, or governed (I ſay not by Your Lordſhip, whom they look on with more then ordinary reſpects) but by any other, to the pre<g ref="char:EOLhyphen"/>judice of their deſignes; therefore was not that omiſsion in me (I conceive) ſo great, as to deſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve your Lordſhips paines in ſo obſerving it, or that your Trumpet ſhould poſt ſo, and ſo farre, to minde me of it.</p>
+               <p>It was ſaid of the Rebels ſtanding Force of fifteen thouſand Foot, <hi>and</hi> 3500. Horſe, <hi>That it was to be all of their owne partie, Officers and Souldiers, and
+<pb n="13" facs="tcp:64831:7"/>
+they with the whole Kingdome to be regulated by a major party of Iriſh Truſtees.</hi>
+               </p>
+               <p>Herein you ſay, <hi>I am not miſtaken in the number</hi> (to uſe your Lordſhips own words) <hi>but when you ſay they are all of their owne party, if you intend by the Rebels, the late Confederates, for if they be Roman Catholikes, that Article is fulfilled, and of them there are many that were not of the Confederates.</hi> So your Lordſhip.</p>
+               <p>In which difference by your Lo: given me, between <hi>the Roman Catholiques Con<g ref="char:EOLhyphen"/>federates</hi> (with whom your Lo. ſo Treated) and the <hi>Roman Catholiques.</hi> I finde my ſelf allowed the libertie of terming the <hi>Confederate Romane Catholique Rebels</hi> but not all that are <hi>Roman Catholiques.</hi> I will not ſay that all that are of the one, are al<g ref="char:EOLhyphen"/>ſo of the other. I ſhall ſay they are not, if (as not actually declaring in the Rebel<g ref="char:EOLhyphen"/>lion ſo) they do not any way abett, aid, or countenance, thoſe in rebellion ſo; for ſuch in the eye of the law are looked on, as in the ſame guilt equally involved. But how many there be of ſuch Roman Catholiques, I know not, I am certain they are not of that number as to make up <hi>an Armie of fifteen thouſand foot and two thou<g ref="char:EOLhyphen"/>ſand five hundred horſe</hi> (which was that intended) and moſt ſure I am that ſuch Roman Catholiques would not be thoſe to be ſo confided in.</p>
+               <p>
+                  <hi>But much more are you miſtaken,</hi> (ſo it followeth in that your Lordſhips Replie) <hi>when you affirm, that thoſe forces and the whole Kingdom are to be Regulated by a Major partie of Truſtees of the Iriſh, there being nothing in their power, through the whole Articles extending either to the Regulating of an Armie or any peice of one, much leſſe of the whole Kingdom. And even in thoſe powers derived to them by the Articles (which for the moſt part, are in the matters of leav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es and taxes upon their ownfreeholds) there is a negative power left to the Cheif Governour for the time being.</hi>
+               </p>
+               <p>Herein I appeale to thoſe <hi>your Lordſhips Articles</hi> wherein <hi>the power of the ſaid Trustees</hi> appears to be <hi>in ſome things more then in leavies, and Taxes.</hi> And <hi>further then what concerns that mentioned army,</hi> and that <hi>with an negative power in them alſo ballancing if not over ballanci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g that in your Lordſhip.</hi>
+               </p>
+               <p>The power of the Iriſh Truſtees is found to be in Cauſes Maritine (<hi>Article</hi> 24) in naming and approving thoſe, Commanding t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir Townes, Forts, &amp;c <hi>Article</hi> 29) to diſmiſſe, or adde at their pleaſure, to the ſtanding Army of 15000 foot and 2500 horſe, (<hi>Article</hi> 9) To approve of thoſe who ſhall be appointed Ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tices of the Peace (<hi>Article</hi> 28) To name and approve of perſons for the Judic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tories (<hi>Article</hi> 33) To diſpoſe of Eſtates of all not adhering to their party (<hi>Article</hi> 27) To Leavy money for buying Arms &amp;c. and for entertaining of Friggots (<hi>ibid</hi>) To lay up ſuch arms &amp; amunition in ſuch Magazeens, &amp;c. (<hi>ibid</hi>) To rayſe m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny &amp;c. (<hi>ibid</hi>) And not to raiſe money (as your Lo: hath it) on their own freholds onely bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therein to taxe the perſons or Eſtates of any in the Kingdom (Article 27) So as it is evident that the influence of their power is not upon th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Armie alone, but even upon the Kingdom alſo. As for your Lordſhips pretended negative power it is certainly as nothing, while it is not in your power to act in thoſe things, without them, more then your Lordſhip conceiveth them of no power with<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut you, There being a ne<g ref="char:EOLhyphen"/>gative power in both, and a joynt conccu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rence neceſſary. And if the diſpute ſhould at any time be of the validity of either, their will be found with moſt advantage being backt up, and ſupported with that power and force which will appear theirs wholly. You except of my tearming the Rebels, <hi>bloody Rebels,</hi> I wiſh heartily I
+<pb n="14" facs="tcp:64831:8"/>
+had been miſtaken, And very heartily, that it had not been (as now it is) your Lordſhips misfortune to plead for them, in that cauſe of blood, that innocent blood whoſe crie, and juſtice, will undoubtedly purſue to deſtruction<g ref="char:punc">▪</g> thoſe murderers, and their abetters, whoſoever they were, or ſhall be.</p>
+               <p>Your Lordſhip tells us, <hi>that by an article of that peace, all ſuch are excluded from pardon:</hi> But how (my Lord) the 18 <hi>Article</hi> ſheweth it in the manner and Circum<g ref="char:EOLhyphen"/>ſtances. As, that there ſhall be firſt a ſingling out, and particularizing of certain actions there tearmed barbarous and inhumaine, by whom? by the Lord Lievte<g ref="char:EOLhyphen"/>nant, and by the Lord <hi>viſcount Dillon</hi> of <hi>Coſtilah,</hi> the L. <hi>Viſcount Muskery,</hi> the Lord Barron of <hi>Athenry, Alexander Mac Donell,</hi> Sir <hi>Lucas Dillon,</hi> Sir <hi>Nicholas Plunket,</hi> Sir <hi>Richard Barnwall, Ieffrey Brown, Donough O Callaghan, Tirlagh O Neil, Miles Reily, and Gerrald Fennell,</hi> or any ſeven or more of them. I know not whether all theſe are, (I am ſure ſome of them are) perſons chargeable with the ſame barbarous and inhumaine crimes; neither know I but that all of them are nearly intereſſed in ſuch as may be ſo charged, But ſee the triall of theſe Malefactors<g ref="char:punc">▪</g> They are not to receive juſtice in the ordinary courſe of Law in ſuch Caſes provided; but left they are to be tried, and adjudged by ſuch indifferent Commiſſioners as ſhall be agreed upon by the Lord Lievtenant, and the ſaid Lord <hi>Dillon</hi> &amp;c. or any ſeaven or more of them, neither is this all, for the power alſo of thoſe very Comiſſioners ſo choſen, is to continue onely for two yeers beginning ſix moneths after the date of the ſaid Articles: dated Ianuary 17. 1648. See what mock Iuſtice is here, And whether in this kinde of inquiſition for blood, your Lordſhip hath ſufficiently pro<g ref="char:EOLhyphen"/>vided for purging the land of that blood, and for waſhing off from thoſe Rebels, that their laſting blot of <hi>Bloody Rebels.</hi> You tell me (my Lord) of him you call father <hi>Reyley</hi> (by you ſaid) to be here, Treating with me: As here he is not, ſo was his Treating with me, concerning releaſe of Priſoners; nor am I enabled (nei<g ref="char:EOLhyphen"/>ther deſire I to be enabled) with ſuch power of Treating, as is by your Lordſhip in<g ref="char:EOLhyphen"/>tended; neither conceive I him, or thoſe of his Party ſuch, as are to be deluded with a Treaty, where is not power to grant, no not to receive what ſhould be propounded. And if any thing ſhould have been ſo by him propounded, it could be no more in<g ref="char:EOLhyphen"/>terpreted a Treaty, then may this with your Lordſhip, yet is he your Lordſhip now mentioneth the ſame, who was with others of that tribe, ſometimes by your Lordſhip imployed for Treating with the Rebells, in the beginning of this Rebelli<g ref="char:EOLhyphen"/>on: and (if reports faile not) with whom your Lordſhip would now cloſe, if you knew how: but that were (it ſeems) in me a ſin, which in your Lordſhip were none, Circumſtances conſidered. As for that power remaining in me (which your Lordſhip is pleaſed to queſtion) it is what is derived from the <hi>Parliament</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in that Act wherein the management of the War of <hi>Ireland</hi> againſt the Re<g ref="char:EOLhyphen"/>bels, is to all intents and purpoſes left ſolely in the <hi>Parliament</hi> without further Con<g ref="char:EOLhyphen"/>currence. The forces here being to be raiſed, maintained, diſpoſed and ordered by the Parliament, as is in the ſaid Act appearing. In which Act is alſo provided againſt any pardon to the ſaid Rebels before attainder (ſurely intending much leſſe after) wherein the Parliament of <hi>England</hi> is not concurring; I had therefore ſuffici<g ref="char:EOLhyphen"/>ent grounds for queſtioning your Lordſhips aſſumed power, both in concluding that your peace with thoſe Rebels contrary to the ſaid Act, and in what elſe your
+<pb n="15" facs="tcp:64831:8"/>
+Lordſhip pretends of power without the Parliament, over the Parliament forces in that Province of <hi>Mounſter,</hi> or elſewhere in this Kingdom. And how Triviall (give me leave to ſay it) is that your Lordſhips diſcourſe, of the now reverting of that power, ſeeing that Act is ſtill in being. Your Lo: again preſſeth the late proceed<g ref="char:EOLhyphen"/>ings in <hi>England,</hi> thoſe particularly againſt the Perſon of the late King: loath I was, in my laſt, to mind your Lo: of what then I might, yet did not but now muſt, being by your Lo: thereunto thus enforced, that your Lordſhip may doe well to lay your hand upon your own heart, and examine there, whether you may not there finde yourſelf (I ſay your ſelf,) a principall occaſioning that the Kings ſuffering. For it is evident, that Your Lordſhip appearing here, as you had done, &amp; as you now do, (<hi>the Treaty at Carisbrooke</hi> then in being, between the King and People, and very hope<g ref="char:EOLhyphen"/>full proceeding) you gave in your ſelfe and in your actions, occaſion to the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> to ſuſpect the ſinceirty of that Treaty, which hath ſince occaſio<g ref="char:EOLhyphen"/>nally produced what hath thereupon followed. Yet whatſoever that hath been, or whatſoever the Changes have been ſince as thereupon enſuing, (which your Lord<g ref="char:EOLhyphen"/>ſhip offers me as an an argument for changing me in my wayes,) I therein continue to expreſſe my ſelfe (as formerly I have done) that all thoſe things, (being things without me) are matters forraign to my work and Truſt here. For unto my ſtan<g ref="char:EOLhyphen"/>ding here (where I am placed) am I principally bound, and for any evils following the neglect of this my charge, am I accomptable, not for what is elſewhere, and out of my charge, of what conſequence or concernment ſoever.</p>
+               <p>Herein therefore declare I my ſelfe clearly, that were there neither King nor Parliament, yet ſhould I ſtand firm to my principles, and to this my truſt, againſt thoſe Bloody Rebels, to the beſt of my power, for preſerving the Engliſh intereſt in Ireland, which is in thoſe your Lo. proceedings playnly hazarded. In the con<g ref="char:EOLhyphen"/>cluſion of that your Lo: Reply your Lo: Retracts that in your former of <hi>mena<g ref="char:EOLhyphen"/>cing us here, with blood and force, if diſſenting from you:</hi> You now ſay, no ſuch thing is found in that your Letter.</p>
+               <p>I ſhall not much trouble my ſelfe in a thing I value not, were it ſo or not; I ſhall only referre you therein to your Lordſhips own words: 'There is nothing (you ſay) I ſhould more induſtriouſly avoyd then thoſe neceſſities ariſing from my du<g ref="char:EOLhyphen"/>ty to God and Man, that may by your rejecting this offer, force me to be a ſad inſtrument of ſhedding Engliſh blood, which in ſuch caſe muſt on both ſides hap<g ref="char:EOLhyphen"/>pen. The conſtruction I now leave to your ſelfe; this only, on this review which you give me of it, I cannot but offer to your Lordſhips very ſerious conſideration, That as you ſhall anſwer it to God, you be tender of that Engliſh blood, there now in your diſpoſing and power, that in the offering up thoſe principally to the ſlaughter (a pleaſing ſacrifice to the Iriſh Rebels) you be not after found the betray<g ref="char:EOLhyphen"/>er of that part of the Kingdom (a conſiderable part of it) to the Common Enemy. And that your Lordſhip would alſo ſeriouſly conſider, what it ſhall be, to be that Inſtrument (as your Lordſhip ſayth you muſt bee) of ſhedding Engliſh blood on both ſides, ſo engaging upon each other thoſe by whom the Engliſh Intreſt is to be here preſerved. I ſhould be ſorry to ſee your Lo: (of the ſame blood) to be therein but an inſtrument, but moſt of all, a principall, as in this and ſuch your Lordſhips
+<pb n="16" facs="tcp:64831:9" rendition="simple:additions"/>
+proceedings, you muſt be neceſſarily. To that which hath paſſed mee in diſcourſe with your Lo: (whereof you minde me) concerning violence to the Kings Perſon, It was occaſioned on his removing from <hi>Holmby</hi> by ſome of the Army, againſt whom your Lordſhip expreſſing your ſelfe in ſome bitterneſſe, I ſayd, that no evill or violence, was therein by the Army intended to his perſon, but that the ſecuring him from evill was that principally reſpected: what ſince hath followed, is what I aſſure my ſelfe you Lordſhips proceedings here have very much occaſioned. From which diſcourſe, your Lordſhip cannot conclude me (as you do) receding from my principles.</p>
+               <p>All things thus conſidered, and ſeeing how little is in that your Lordſhips Re<g ref="char:EOLhyphen"/>ply more then in your former, either as to matter or ſatisfaction (give me leave to give your Lordſhip this my ſenſe clearly) I have cauſe to doubt, your ſending this your Trumpet, (on this ſlight errand) to bee intended for other ends rather. I therefore deſire your Lordſhip would be pleaſed for the future, not in this kinde, to trouble your ſelfe or mee any further; this being a diſpute to bee decided by the Sword, not by the Pen. And that your Lordſhip would be pleaſed thus to under<g ref="char:EOLhyphen"/>ſtand me once for all; That I ſhall never (by Gods grace) recede from my juſt principles, which hitherto I have never done, howſoever your Lordſhip is pleaſed therein to charge mee over deeply, and (I muſt needs ſay it) very unjuſtly. Nor ſhall I ever ſeek my ſelfe or my private advantage to the deſerting of my truſt (as have ſome others) a Crime not to be after ſo eaſily expiated by a ſlender or lean Ma<g ref="char:EOLhyphen"/>nifeſt. So I remain,</p>
+               <closer>
+                  <dateline>Dublin, <date>March 31 1649</date>
+                  </dateline>
+                  <salute>My Lord,</salute>
+                  <signed>Your Lordſhips humble Servant Signed <hi>Mic: Iones</hi>
+                  </signed>
+               </closer>
+               <trailer>For the Lord of <hi>Ormond,</hi> Theſe.</trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
